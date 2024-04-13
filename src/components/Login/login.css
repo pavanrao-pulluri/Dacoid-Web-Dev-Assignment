@@ -1,0 +1,43 @@
+
+.signup-text{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23.44px;
+    text-align: center;
+    color: #2C2B2B;   
+    margin-right: 210px;    
+}
+
+.signup-btn{
+    color: #FFFFFF;
+    background: linear-gradient(to right, #95BEFF, #7B91FF);
+    width: 343px;
+    height: 50px;
+    margin-top: 200px;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}
+
+.terms-label{
+    color: #7F7F7F;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 21.35px; 
+    margin-left: -80px;
+   
+
+}
+.footer-lable{
+height: 15px;
+top: 106px;
+left: 90px;
+font-family: Montserrat;
+font-size: 12px;
+font-weight: 500;
+line-height: 14.63px;
+text-align: center;
+color: #2C2B2B;
+}

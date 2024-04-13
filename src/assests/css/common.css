@@ -1,0 +1,19 @@
+.common-background{
+    background-color:#F1F1F1;
+    width: 343px;
+    height: 50px;
+    border-radius:12px;
+    border: none;
+    margin-top: 35px;
+    padding-left: 16px;
+}
+.btn-common{
+    color: #FFFFFF;
+    background: linear-gradient(to right, #95BEFF, #7B91FF);
+    width: 343px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 12px;
+    border: none;
+    cursor: pointer;
+}

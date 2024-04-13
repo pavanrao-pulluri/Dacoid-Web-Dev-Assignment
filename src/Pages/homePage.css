@@ -1,0 +1,73 @@
+
+.skip-label {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: left;
+    width: 36px;
+    height: 20px;
+    margin-left: 323px;
+  }
+  
+  .banner-img1 {
+    width: 282px;
+    height: 282px;
+    left: 46px;
+  }
+  
+  .banner-img2 {
+    width: 352px;
+    height: 234.61px;
+    left: 11px;
+  }
+  
+  .text-banner {
+    width: 160px;
+    height: 24px;
+    top: 499px;
+    margin-left: 16px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.38px;
+    text-align: left;
+  }
+  .para-banner{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.5px;
+text-align: left;
+margin-left: 16px;
+height: 60px;
+top: 538px;
+color: #787878;
+  }
+  .div-next-btn{
+    margin-top: 80px;
+    margin-left: 280px;
+  }
+  @media screen and (min-width: 1024px) {
+    .skip-label {
+        margin-left: 100px;
+    }
+    .text-banner {
+        text-align: center;
+        margin-left: 43%;
+    }
+    .para-banner{
+        text-align: center;
+        max-width: 456px;
+        margin-left: 33%;
+  }
+.div-img-banner{
+    margin-top: -90px;
+}
+.div-next-btn{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+  }
+  
+
+  

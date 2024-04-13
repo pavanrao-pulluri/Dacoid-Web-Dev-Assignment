@@ -1,0 +1,47 @@
+.goals-text{
+width: 219px;
+height: 24px;
+top: 68px;
+left: 78px;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 600;
+line-height: 24.38px;
+text-align: left;
+
+
+}
+.lable-text{
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 8px;
+    text-align: left;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.lable-text input {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.label-check{
+    width: 22px;
+     height: 22px;
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .btn-div{
+    margin-top: 90px;
+  }
+
+  @media screen and (min-width: 1024px) {
+    .btn-div{
+      margin-top: 0px;
+    }
+    }
+  
